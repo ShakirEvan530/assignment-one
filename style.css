@@ -108,6 +108,10 @@
     width: 103px;
 }
 
+.btn-main:hover{
+    background-color: rgb(166, 255, 0);
+    color: rgb(5, 22, 255);
+}
 .border-place{
     height: 482px;
     width: 1320px;
@@ -216,20 +220,88 @@ margin-left: 70px;
     margin-left: 70px;
 }
 
+.function{
+    align-content: center;
+}
+.function-one{
+    height: 29px;
+    width: 263px;
+    margin-top: 150px;
+    text-align:center;
+    margin-left: 668px;
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.function-two{
+    height: 91px;
+    width: 667px;
+    text-align: center;
+    margin-left: 461px;
+    color: #070211;
+font-family: Merriweather;
+font-size: 50px;
+font-weight: 900;
+}
+
+.function-three{
+    height: 96px;
+    width: 1068px;
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    margin-left: 268px;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
 
 
+.function-four{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 50px;
+font-weight: 900;
+}
 
 
+.flex-two{
+    display: flex;
+}
+
+.image-one{
+    height: 50px;
+    width: 100px;
+}
+.image-two{
+    height: 100px;
+    width: 100px;
+    background: transparent;
+    margin-left: 20%;
+}
+
+.image-three{
+    height: 450px;
+    width: 250px;
+    margin-left: 32%;
+    position:relative;
+}
+.main-func{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
+.dot{
+    width: 1320px;
+    height: 229px;
+    flex-shrink: 0;
+    background-color:#FF0000;
+    margin-left: 140px;
+    margin-top: 0px;
+}
