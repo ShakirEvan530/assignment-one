@@ -137,3 +137,99 @@
     text-align: center;
     padding: 100px 380px 210px;
 }
+
+#header{
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    background-color: rgb(252, 212, 212);
+    margin-left: 140px;
+    margin-top: 70px;
+}
+
+#header .contain{
+    padding-top: 150px;
+    gap: 20px;
+}
+
+.one{
+    height: 29px;
+    width: 207px;
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+.two{
+    height: 60px;
+    width: 328px;
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+
+.three{
+    height: 128px;
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.man{
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 20px;
+}
+
+.four{
+    height: 58px;
+    width: 126px;
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-left: 70px;
+
+}
+
+.five{
+    height: 96px;
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left:70px;
+}
+
+.six{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    gap: 10px;
+    margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
