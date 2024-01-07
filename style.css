@@ -1,0 +1,110 @@
+*{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image: url(images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    align-items: center;
+    margin: 50px 140px  120px;
+    position: relative;
+}
+.banner-content p{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 200;
+    padding:177px 500px 0px ;
+}
+
+.banner-content h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding-right: 344px;
+    padding-bottom: 177px;
+    padding-left: 344px;
+}
+
+.container{
+    align-items: center;
+}
+
+.content{
+    color: #F00;
+
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+    margin: 0px 600px 48px;
+}
+.content-two{
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px 600px 0px;
+}
+
+.content-three{
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0px 595px 48px;
+}
+.content-four{
+    display: block;
+    margin: 0 auto;
+}
+
+.party{
+    background-image: url(images/party.png);
+    width: 1320px;
+    height: 600px;
+    align-items: center;
+    margin: 50px 140px  120px;
+    position: relative;
+}
+
+.invite{
+    color: #FFF;
+    font-family: 'Merriweather', serif;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    padding: 126px 552px 0px 126px ;
+    width: 642px;
+}
+
+.message{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 24px 500px 0px 120px;
+}
+.party-night{
+}
+
+.btn-main{
+    background-color: black;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 48px 1059px 142px 140px;
+    height: 24px;
+    width: 103px;
+}
+
