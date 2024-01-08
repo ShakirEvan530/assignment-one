@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+.body{
+    border: 1px solid red;
+}
 .banner{
     background-image: url(images/Banner\ Image.png);
     opacity: 0.9;
@@ -94,9 +97,6 @@
     font-weight: 400;
     padding: 24px 500px 0px 120px;
 }
-.party-night{
-}
-
 .btn-main{
     background-color: black;
     color: #FFF;
@@ -221,7 +221,11 @@ margin-left: 70px;
     gap: 10px;
     margin-left: 70px;
 }
-
+.main-function{
+    width: 1600px;
+    height: 1000px;
+    background-color: #fff;
+}
 .function{
     align-content: center;
 }
