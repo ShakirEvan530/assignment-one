@@ -120,6 +120,18 @@
     background-color: rgb(252, 212, 212);
     margin:0px  140px;
 }
+.btn-m{
+    height: 40px;
+    width: 167px;
+    color: #FFFFFF;
+    background-color:#FF0000 ;
+    margin: 45px 200px 0px;
+    border-radius: 8px;
+}
+.btn-m:hover{
+    background-color: antiquewhite;
+    color: black;
+}
 .location{
     color: #070211;
     font-family: Inter;
@@ -463,4 +475,15 @@ margin: 0px 352px;
     font-weight: 500;
 }
 
-
+.btn-n{
+    height: 30px;
+    width: 140px;
+    margin: 0px 140px 0px 1315px;
+    background-color: #F00;
+    color: #fff;
+    border-radius: 15px;
+}
+.btn-n:hover{
+    background-color: #FFFFFF;
+    color: black;
+}
