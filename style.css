@@ -354,13 +354,11 @@ font-weight: 900;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
 .img-item img{
     width: 424px;
     height: 450px;
     padding: 10px;
 }
-
 .msg{
     height: 150px;
     width: 150px;
@@ -397,7 +395,10 @@ margin: 0px 352px;
     margin: 48px 0px 104px 450px;
     padding: 25px;
 }
-
+.img-one:hover{
+    background-color: black;
+    color: white;
+}
 .btn-one{
     height: 65px;
     width: 148px;
