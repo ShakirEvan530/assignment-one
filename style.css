@@ -142,7 +142,7 @@
     padding: 100px 380px 210px;
 }
 
-#header{
+#header-two{
     display: flex;
     width: 1320px;
     height: 600px;
@@ -151,7 +151,7 @@
     margin-top: 70px;
 }
 
-#header .contain{
+#header-two .contain{
     padding-top: 150px;
     gap: 20px;
 }
@@ -305,3 +305,153 @@ font-weight: 900;
     margin-left: 140px;
     margin-top: 0px;
 }
+.gift{
+    margin-left: 142px;
+}
+.part-one{
+    height: 29px;
+    width: 192px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.part-two{
+    height: 60px;
+    width: 566px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.part-three{
+    height: 64px;
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
+.img-item{
+    margin-left: 140px;
+    padding: 20px auto;
+    border-radius: 16px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.img-item img{
+    width: 424px;
+    height: 450px;
+    padding: 10px;
+}
+
+.msg{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    margin: 80px 720px 0px;
+}
+
+.pera-one{
+    height: 60px;
+    width: 512px;
+    margin: 0px 540px;
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.pera-two{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+margin: 0px 352px;
+}
+
+.img-one{
+    height: 14px;
+    width: 500px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    margin: 48px 0px 104px 450px;
+    padding: 25px;
+}
+
+.btn-one{
+    height: 65px;
+    width: 148px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    font-size: large;
+    color: white;
+}
+
+.last{
+    width: 1700px;
+    height: 609px;
+    background: #070211;
+    
+}
+
+.second-last{
+    display: flex;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 50px;
+}
+
+.area{
+    height: 80px;
+    width: 375px;
+    margin: 120px 0px 0px 140px;
+}
+
+.contact{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 135px 275px 0px 500px;
+}
+
+.contact-one{
+    margin-right: 10px;
+}
+
+.third-last{
+    margin: 48px 660px;
+    padding: 20px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+    gap: 10px;
+}
+.third-last img{
+    margin-right: 15px;
+}
+
+.fourth-last{
+    margin-top: 20px;
+    margin-left: 140px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
