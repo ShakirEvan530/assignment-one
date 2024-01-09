@@ -371,6 +371,12 @@ font-weight: 900;
     height: 450px;
     padding: 10px;
 }
+.img-item img:hover{
+    background-color:rgb(235, 75, 235);
+    border-radius: 15px;
+    border: 2px groove red;
+    transition: .3s ease-in-out;
+}
 .msg{
     height: 150px;
     width: 150px;
