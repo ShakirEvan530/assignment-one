@@ -98,21 +98,23 @@
     padding: 24px 500px 0px 120px;
 }
 .btn-main{
-    background-color: black;
-    color: #FFF;
+    background-color: red;
+    color: white;
     text-align: center;
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
     margin: 48px 1059px 142px 140px;
-    height: 24px;
-    width: 103px;
+    height: 30px;
+    width: 110px;
+    border-radius: 30%;
 }
 
 .btn-main:hover{
-    background-color: rgb(166, 255, 0);
-    color: rgb(5, 22, 255);
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 30%;
 }
 .border-place{
     height: 482px;
@@ -122,11 +124,11 @@
 }
 .btn-m{
     height: 40px;
-    width: 167px;
+    width: 130px;
     color: #FFFFFF;
     background-color:#FF0000 ;
     margin: 45px 200px 0px;
-    border-radius: 8px;
+    border-radius: 13px;
 }
 .btn-m:hover{
     background-color: antiquewhite;
@@ -412,15 +414,19 @@ margin: 0px 352px;
     background: #FFF;
     margin: 48px 0px 104px 450px;
     padding: 25px;
+    color: black;
 }
-
+.img-one:hover{
+    background-color: #141414;
+    color: rgb(238, 255, 0);
+}
 .btn-one{
     height: 65px;
     width: 148px;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     font-size: large;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .btn-one:hover{
     background-color: black;
@@ -471,7 +477,11 @@ margin: 0px 352px;
 .third-last img{
     margin-right: 15px;
 }
-
+.third-last img:hover{
+    background: rgb(255, 186, 159);
+    border-radius: 30%;
+    border: 5px dotted lightsalmon;
+}
 .fourth-last{
     margin-top: 20px;
     margin-left: 140px;
@@ -492,4 +502,6 @@ margin: 0px 352px;
 .btn-n:hover{
     background-color: #FFFFFF;
     color: black;
+    border: 5px solid #FFFFFF;
+    transition: .3s ease-out;
 }
